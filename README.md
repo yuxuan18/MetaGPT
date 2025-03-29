@@ -7,5 +7,5 @@ forked the official GitHub repository of MetaGPT and provide:
 
 1. `run.py`: the script we used to run MetaGPT
 2. `logs/20250328.txt`: the execution logs
-3. `workplace/CVE-2024-*`: the results of running MetaGPT.
+3. `results/CVE-2024-*`: the results of running MetaGPT.
 
