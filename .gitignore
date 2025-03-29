@@ -62,7 +62,7 @@ unittest.txt
 
 # Django stuff:
 *.log
-logs
+# logs
 local_settings.py
 db.sqlite3
 db.sqlite3-journal
@@ -165,7 +165,7 @@ examples/index_store.json
 .chroma_exp_data
 .role_memory_data
 *~$*
-workspace/*
+# workspace/*
 tmp
 metagpt/roles/idea_agent.py
 .aider*
